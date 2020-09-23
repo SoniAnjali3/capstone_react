@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginForm SnapShot LoginPage renders correctly 1`] = `undefined`;
+
+exports[`LoginPageSnapShot LoginPage renders correctly 1`] = `
+<LoginForm>
+  <form>
+    <h1>
+      Login
+    </h1>
+    EmailID:  
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    Password:  
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    <button
+      onClick={[Function]}
+      type="submit"
+      value="Save"
+    />
+  </form>
+</LoginForm>
+`;

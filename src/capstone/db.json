@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "ProductName": "TV",
+      "ProductDetail": "Andriod TV",
+      "Manufacturer": "One PLus",
+      "Price": "42000",
+      "Quantity": "2",
+      "id": 5,
+      "numberOfHits": 14,
+      "imagepath": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FeAirtec-inches-Ready-32DJ-Black%2Fdp%2FB07MNF89L2&psig=AOvVaw3imFqY0EBe5xQGZfBpOSMD&ust=1600504219795000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi_wJym8usCFQAAAAAdAAAAABAF"
+    },
+    {
+      "ProductName": "refrigerator",
+      "ProductDetail": "cooling",
+      "Manufacturer": "Whirlpool",
+      "Price": "20000",
+      "Quantity": "2",
+      "id": "c069d737-1109-4722-939c-4a0fdc423bb8",
+      "numberOfHits": 12,
+      "imagepath": ""
+    },
+    {
+      "ProductName": "AC",
+      "ProductDetail": "cooling room",
+      "Manufacturer": "O general",
+      "Price": "45000",
+      "Quantity": "1",
+      "id": "735d5758-d3f8-4344-aa01-5928dfea1540",
+      "numberOfHits": 2,
+      "imagepath": ""
+    },
+    {
+      "ProductName": "realme 9",
+      "ProductDetail": "andriod phone",
+      "Manufacturer": "realme",
+      "Price": "10000",
+      "Quantity": "1",
+      "id": "8f58dbff-580a-4093-9bd1-ee7152e4e69b",
+      "numberOfHits": 2,
+      "imagepath": ""
+    },
+    {
+      "ProductName": "iphone 11",
+      "ProductDetail": "safari box",
+      "Manufacturer": "Apple",
+      "Price": "85000",
+      "Quantity": "1",
+      "id": "8001cb94-3f3f-4ab8-8b95-91e7b01b5d72",
+      "numberOfHits": 6,
+      "imagepath": ""
+    },
+    {
+      "ProductName": "Toaster",
+      "ProductDetail": "Bread Toaster",
+      "Manufacturer": "Khaitan",
+      "Price": "500",
+      "Quantity": "2",
+      "id": "b16a4c53-f3cd-4b20-854f-a025a66dfb89",
+      "numberOfHits": 1,
+      "imagepath": ""
+    },
+    {
+      "ProductName": "Dosa Tava",
+      "ProductDetail": "25\" Diameter Tava",
+      "Manufacturer": "Prestige",
+      "Price": "490",
+      "Quantity": "1",
+      "id": "28594b1e-46db-4401-a57b-11e4d2b7bebf",
+      "numberOfHits": 0,
+      "imagepath": ""
+    },
+    {
+      "ProductName": "Pen",
+      "ProductDetail": "Ink Pen",
+      "Manufacturer": "Pilot Pen",
+      "Price": "50",
+      "Quantity": "5",
+      "id": "297cb204-f01c-4690-8ecc-cd38dcc2a474",
+      "numberOfHits": 0,
+      "imagepath": ""
+    }
+  ],
+  "user": [
+    {
+      "EmailID": "anjali@gmail.com",
+      "Password": "anjali",
+      "FirstName": "Anjali",
+      "LastName": "Soni",
+      "Location": "Bangalore",
+      "MobileNumber": "1234567890",
+      "loginFlag": 1,
+      "id": 1
+    },
+    {
+      "EmailID": "pratik@gmail.com",
+      "Password": "pratik",
+      "FirstName": "Pratik",
+      "LastName": "Jaswant",
+      "Location": "Pune",
+      "MobileNumber": "0987654321",
+      "loginFlag": 1,
+      "id": 2
+    },
+    {
+      "EmailID": "gulshan@gmail.com",
+      "Password": "gulshan",
+      "FirstName": "Gulshan",
+      "LastName": "Soni",
+      "Location": "Gwalior",
+      "MobileNumber": "1234567999",
+      "loginFlag": 0,
+      "id": 5
+    },
+    {
+      "EmailID": "surbhi@gmail.com",
+      "Password": "surbhi",
+      "FirstName": "Surbhi",
+      "LastName": "Mishra",
+      "Location": "New Delhi",
+      "MobileNumber": "1234567890",
+      "loginFlag": 0,
+      "id": "081dc342-c8b8-492b-8d40-e13a378a5d11"
+    },
+    {
+      "EmailID": "seema@gmail.com",
+      "Password": "seema",
+      "FirstName": "Seema",
+      "LastName": "Verma",
+      "Location": "Aligarh",
+      "MobileNumber": "1234567899",
+      "id": "0cf41d52-3dbe-4bca-abf2-32b6490edf33",
+      "loginFlag": 0
+    }
+  ]
+}

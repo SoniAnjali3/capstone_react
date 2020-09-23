@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RegisterFormSnapShot RegisterForm renders correctly 1`] = `
+<RegisterForm>
+  <form>
+    <h1>
+      Register User
+    </h1>
+    EmailID:  
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    Password:  
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    FirstName:
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    LastName:
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    Location:
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    MobileNumber:
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    <button
+      onClick={[Function]}
+      type="submit"
+      value="Save"
+    />
+  </form>
+</RegisterForm>
+`;

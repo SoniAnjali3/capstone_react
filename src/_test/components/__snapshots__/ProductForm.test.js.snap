@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductFormSnapShot ProductForm renders correctly 1`] = `
+<ProductForm>
+  <form>
+    <h1>
+      Add Product
+    </h1>
+    Product Name:  
+    <input
+      id="ProductName"
+      type="text"
+    />
+    <br />
+    <br />
+    Product Detail:  
+    <input
+      id="ProductDetail"
+      type="text"
+    />
+    <br />
+    <br />
+    Manufacturer:  
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    Price:  
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    Quantity:  
+    <input
+      type="text"
+    />
+    <br />
+    <br />
+    <button
+      onClick={[Function]}
+      type="submit"
+      value="Save"
+    />
+  </form>
+</ProductForm>
+`;
