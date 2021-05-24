@@ -5,7 +5,7 @@
       "ProductDetail": "Andriod TV",
       "Manufacturer": "One PLus",
       "Price": "42000",
-      "Quantity": "2",
+      "Quantity": "3",
       "id": 5,
       "numberOfHits": 14,
       "imagepath": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FeAirtec-inches-Ready-32DJ-Black%2Fdp%2FB07MNF89L2&psig=AOvVaw3imFqY0EBe5xQGZfBpOSMD&ust=1600504219795000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi_wJym8usCFQAAAAAdAAAAABAF"
@@ -51,9 +51,9 @@
       "imagepath": ""
     },
     {
-      "ProductName": "Toaster",
-      "ProductDetail": "Bread Toaster",
-      "Manufacturer": "Khaitan",
+      "ProductName": "Hand Pump",
+      "ProductDetail": "parts",
+      "Manufacturer": "Ahaan Agrico limited",
       "Price": "500",
       "Quantity": "2",
       "id": "b16a4c53-f3cd-4b20-854f-a025a66dfb89",
@@ -61,21 +61,21 @@
       "imagepath": ""
     },
     {
-      "ProductName": "Dosa Tava",
-      "ProductDetail": "25\" Diameter Tava",
-      "Manufacturer": "Prestige",
-      "Price": "490",
-      "Quantity": "1",
+      "ProductName": "t",
+      "ProductDetail": "t",
+      "Manufacturer": "t",
+      "Price": "9",
+      "Quantity": "9",
       "id": "28594b1e-46db-4401-a57b-11e4d2b7bebf",
       "numberOfHits": 0,
       "imagepath": ""
     },
     {
-      "ProductName": "Pen",
-      "ProductDetail": "Ink Pen",
-      "Manufacturer": "Pilot Pen",
-      "Price": "50",
-      "Quantity": "5",
+      "ProductName": "y",
+      "ProductDetail": "y",
+      "Manufacturer": "y",
+      "Price": "9",
+      "Quantity": "9",
       "id": "297cb204-f01c-4690-8ecc-cd38dcc2a474",
       "numberOfHits": 0,
       "imagepath": ""
@@ -89,7 +89,7 @@
       "LastName": "Soni",
       "Location": "Bangalore",
       "MobileNumber": "1234567890",
-      "loginFlag": 1,
+      "loginFlag": 0,
       "id": 1
     },
     {

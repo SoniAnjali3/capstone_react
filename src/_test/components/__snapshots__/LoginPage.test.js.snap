@@ -1,7 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`LoginForm SnapShot LoginPage renders correctly 1`] = `undefined`;
-
 exports[`LoginPageSnapShot LoginPage renders correctly 1`] = `
 <LoginForm>
   <form>

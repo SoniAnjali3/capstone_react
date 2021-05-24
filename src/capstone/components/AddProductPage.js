@@ -18,17 +18,21 @@ class AddProductPage extends React.Component {
     this.isBackButtonClicked = false;
   }
 
+  // saveProduct(product) {
+  //     ProductApi.saveProduct(product);
+  //     alert('products added successfully');
+  //     this.props.history.push('/products');
+  // }
   componentDidMount() {
-    // console.log('window.location.pathname', window.location.pathname);
     window.history.pushState(null, null, window.location.pathname);
     window.addEventListener('popstate', this.onBackButtonEvent);
   }
-
   onBackButtonEvent = (e) => {
     e.preventDefault();
     if (!this.isBackButtonClicked) {
       if (window.confirm('Do you want to save your changes')) {
         this.isBackButtonClicked = true;
+        this.setState({ redirect: '/products' });
         // your custom logic to page transition,like react-router-dom history.push()
       } else {
         window.history.pushState(null, null, window.location.pathname);
@@ -36,11 +40,9 @@ class AddProductPage extends React.Component {
       }
     }
   };
-
   componentWillUnmount = () => {
     window.removeEventListener('popstate', this.onBackButtonEvent);
   };
-
   saveProduct(product) {
     //console.log('inside AddProductPage : ', product);
     if (

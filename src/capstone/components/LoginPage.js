@@ -42,8 +42,8 @@ const FormikLoginForm = withFormik({
   mapPropsToValues({ EmailID, Password }) {
     //initial value passed from App.js will be set in these parameters
     return {
-      EmailID: EmailID || '',
-      Password: Password || '',
+      EmailID: 'anjali@gmail.com' || '',
+      Password: 'anjali' || '',
     };
   },
   validationSchema: Yup.object().shape({
